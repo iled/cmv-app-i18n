@@ -13,5 +13,6 @@ define ({
             currentDrawModeNone: 'None'
         }
     },
-    'pt-br': true
+    'pt-br': true,
+    'pt-pt': true
 });

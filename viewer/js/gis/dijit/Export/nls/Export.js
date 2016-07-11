@@ -16,5 +16,6 @@ define({
         'errorGeoJSON': 'Could not create GeoJSON File',
         'errorShapeFile': 'Could not create Shapefile'
     },
-    'pt-br': true
+    'pt-br': true,
+    'pt-pt': true
 });

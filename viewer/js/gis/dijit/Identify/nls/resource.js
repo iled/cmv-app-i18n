@@ -11,5 +11,6 @@ define ({
             identifyingTitle: 'Identifying...'
         }
     },
-    'pt-br': true
+    'pt-br': true,
+    'pt-pt': true
 });

@@ -5,5 +5,6 @@ define ({
             stopEditing: 'Stop editing'
         }
     },
-    'pt-br': true
+    'pt-br': true,
+    'pt-pt': true
 });

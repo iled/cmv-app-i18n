@@ -39,6 +39,7 @@ define({
             errorMessage: 'Error, try again'
         }
     },
-    'pt-br': true
+    'pt-br': true,
+    'pt-pt': true
 });
 

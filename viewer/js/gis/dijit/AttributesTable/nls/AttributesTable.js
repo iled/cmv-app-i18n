@@ -46,5 +46,6 @@ define({
             }
         }
     },
-    'pt-br': true
+    'pt-br': true,
+    'pt-pt': true
 });
