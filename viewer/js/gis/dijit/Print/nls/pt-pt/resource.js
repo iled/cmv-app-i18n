@@ -4,36 +4,36 @@ define({
     format: 'Formato',
     layout: 'Modelo',
     settings: 'Configurações',
-    mapScaleExtent: 'Escala/Extensão do Mapa',
+    mapScaleExtent: 'Escala/Extensão do mapa',
     preserve: 'Preservar',
     mapScale: 'Escala do mapa',
     mapExtent: 'Extensão do mapa',
-    fullLayoutOptions: 'Opções de Modelo Completa',
-    scaleBarUnits: 'Unidades da barra de escala',
+    fullLayoutOptions: 'Todas as opções do modelo',
+    scaleBarUnits: 'Unidades da escala gráfica',
     miles: 'Milhas',
-    kilometers: 'Quilômetros',
+    kilometers: 'Quilómetros',
     meters: 'Metros',
     feet: 'Pés',
-    includeLegend: 'Incluir Legenda',
-    printQualityOptions: 'Opções da qualidade de Impressão',
+    includeLegend: 'Incluir legenda',
+    printQualityOptions: 'Opções da qualidade de impressão',
     dpiInput: {
         label: 'DPI',
-        invalidMessage: 'Por favor entre um valor numérico.',
-        rangeMessage: 'Por favor entre um valor entre 100 e 300.'
+        invalidMessage: 'Por favor introduza um valor numérico.',
+        rangeMessage: 'Por favor introduza um valor entre 100 e 300.'
     },
-    mapOnlyOptions: 'opções MAP_ONLY',
+    mapOnlyOptions: 'Opções do mapa',
     width: 'Largura',
     height: 'Altura',
     printButton: {
-        busyLabel: 'imprimindo',
+        busyLabel: 'a imprimir',
         label: 'Imprimir'
     },
     clearHistoryButton: {
-        label: 'Limpar histórico de impressão'
+        label: 'Limpar o histórico de impressão'
     },
     printResults: {
         progressBar: {
-            label: 'Criando impressão'
+            label: 'A criar a impressão'
         },
         errorMessage: 'Erro, tente novamente'
     }

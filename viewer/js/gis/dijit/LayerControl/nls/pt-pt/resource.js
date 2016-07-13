@@ -6,16 +6,16 @@
 // https://github.com/cmv/cmv-app/issues and someone will assist
 // if need be or checkout the link above and submit a PR
 define({
-	noLegend: 'Sem Legenda',
-    moveUp: 'Mover para Cima',
-    moveDown: 'Mover para Baixo',
-    zoomTo: 'Zoom para a Camada',
+	noLegend: 'Sem legenda',
+    moveUp: 'Mover para cima',
+    moveDown: 'Mover para baixo',
+    zoomTo: 'Aproximar à Camada',
     transparency: 'Transparência',
     metadata: 'Metadados',
-    layerSwipe: 'Cortina de Camada',
+    layerSwipe: 'Deslizar camada',
     layerSwipeVertical: 'Vertical',
     layerSwipeHorizontal: 'Horizontal',
-    layerSwipeScope: 'Escopo',
-    dynamicSublayersOn: 'Liga todas Subcamadas',
-    dynamicSublayersOff: 'Desliga todas Subcamadas'
+    layerSwipeScope: 'Janela',
+    dynamicSublayersOn: 'Activar todas as subcamadas',
+    dynamicSublayersOff: 'Desligar todas as subcamadas'
 });

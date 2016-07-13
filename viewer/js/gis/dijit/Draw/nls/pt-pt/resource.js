@@ -3,12 +3,12 @@ define ({
         point: 'Ponto',
         circle: 'Círculo',
         polyline: 'Polilinha',
-        freehandPolyline: 'Polilinha a Mão Livre',
+        freehandPolyline: 'Polilinha à mão livre',
         polygon: 'Polígono',
-        freehandPolygon: 'Polígono a Mão Livre',
-        stopDrawing: 'Parar de Desenhar',
-        clearDrawing: 'Limpar Desenhos',
-        currentDrawMode: 'Modo de desenho atual:',
+        freehandPolygon: 'Polígono à mão livre',
+        stopDrawing: 'Parar de desenhar',
+        clearDrawing: 'Limpar desenhos',
+        currentDrawMode: 'Modo de desenho actual:',
         currentDrawModeNone: 'Nenhum'
     }
 });

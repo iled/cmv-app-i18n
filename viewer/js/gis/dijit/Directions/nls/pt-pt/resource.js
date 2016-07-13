@@ -1,14 +1,14 @@
 define ({
 	labels: {
-        startAtMyLocation: 'Inicie na minha Localização',
-        endAtMyLocation: 'Termine na minha Localização',
-        clearStops: 'Limpar paradas',
-        addStop: 'Adicionar parada',
-        directionsToHere: 'Direções para aqui',
-        directionsFromHere: 'Direções daqui',
-        useMyLocationAsStart: 'Use minha Localização como ponto de início',
-        useMyLocationAsEnd: 'Use minha Localização como ponto final',
-        directions: 'Direções'
+        startAtMyLocation: 'iniciar na minha localização',
+        endAtMyLocation: 'terminar na minha localização',
+        clearStops: 'limpar paragens',
+        addStop: 'Adicionar paragem',
+        directionsToHere: 'Direcções para aqui',
+        directionsFromHere: 'Direcções a partir daqui',
+        useMyLocationAsStart: 'Usar a minha localização como ponto inicial',
+        useMyLocationAsEnd: 'Usar a minha localização como ponto final',
+        directions: 'Direcções'
     },
     errors: {
         geoLocation: {
@@ -17,7 +17,7 @@ define ({
         },
         location: {
             title: 'Erro',
-            message: 'Houve um problema ao buscar sua Localização: '
+            message: 'Ocorreu um problema ao obter a sua localização: '
         }
     }
 });

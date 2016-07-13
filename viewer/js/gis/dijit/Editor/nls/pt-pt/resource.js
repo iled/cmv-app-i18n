@@ -1,6 +1,6 @@
 define ({
 	labels: {
-        startEditing: 'Iniciar Edição',
-        stopEditing: 'Parar Edição'
+        startEditing: 'Iniciar edição',
+        stopEditing: 'Parar edição'
     }
 });

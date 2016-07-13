@@ -1,12 +1,12 @@
 define ({
 	labels: {
-        selectLayer: 'Escolha "Todas Camadas Visíveis" ou uma camada única para Identificar:',
-        allVisibleLayers: '*** Todas Camadas Visíveis ***'
+        selectLayer: 'Escolher "Todas as camadas visíveis" ou uma única camada para identificar:',
+        allVisibleLayers: '*** Todas as camadas visíveis ***'
     },
     rightClickMenuItem: {
-        label: 'Identifique aqui'
+        label: 'Identificar aqui'
     },
     mapInfoWindow: {
-        identifyingTitle: 'Identificando...'
+        identifyingTitle: 'A identificar...'
     }
 });

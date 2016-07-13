@@ -1,3 +1,3 @@
 define ({
-	title: 'Mapas Base'
+	title: 'Mapas base'
 });
